@@ -20,9 +20,6 @@
 </div>
 <br>
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
 <div align="center">
     <img src="https://img.shields.io/badge/IN%C3%8DCIO-14%2F03%2F2023-green" hspace="5"/>
     <img src="https://img.shields.io/badge/T%C3%89RMINO-30%2F05%2F2023-red" hspace="5"/>
@@ -210,14 +207,14 @@
 <hr>
 
 ### 10. Criando Seu Currículo Online Com HTML e GitHub Pages - 2 horas
-- [ ] Fork no Repositório e Atividade do GitHub
-- [ ] Dados Pessoais
-- [ ] Seções “sobre” e “Experiências”
-- [ ] Seção “Educação” Usando certificados da DIO
-- [ ] Seção “Projetos” Usando seu portifólio da DIO
-- [ ] Paleta de Cores e Potenciais Melhorias
-- [ ] Dúvidas e Comentários Finais
-- [ ] Entendendo o Desafio
+- [x] Fork no Repositório e Atividade do GitHub
+- [x] Dados Pessoais
+- [x] Seções “sobre” e “Experiências”
+- [x] Seção “Educação” Usando certificados da DIO
+- [x] Seção “Projetos” Usando seu portifólio da DIO
+- [x] Paleta de Cores e Potenciais Melhorias
+- [x] Dúvidas e Comentários Finais
+- [x] Entendendo o Desafio
 <br><br>
 <hr>
 
@@ -437,31 +434,31 @@
 <hr>
 
 ### 8.  Criando um Blog com Angular -  3 horas
-- [ ] Preparando seu ambiente de produção e versionando no Github
-- [ ] Enxergando os componentes em um layout
-- [ ] Criando a base dos components
-- [ ] Menu Title
-- [ ] Criando a estrurura do big card
-- [ ] Concentrando o seu Big Card
-- [ ] Desenhando Small-Cards
-- [ ] Criando o Componente do Menu
-- [ ] Commitando seu projeto e editando ele online
-- [ ]  Agregando múltiplos CSS para um componente
-- [ ]  Desacoplando os componentes da parte visual
-- [ ]  Criando outras páginas
-- [ ]  Pegando os dados dinamicamente
-- [ ]  Deixando o content Page Dinâmica
-- [ ]  Lembre de salvar no Git
-- [ ]  Entendendo o Desafio de Projeto
+- [x] Preparando seu ambiente de produção e versionando no Github
+- [x] Enxergando os componentes em um layout
+- [x] Criando a base dos components
+- [x] Menu Title
+- [x] Criando a estrurura do big card
+- [x] Concentrando o seu Big Card
+- [x] Desenhando Small-Cards
+- [x] Criando o Componente do Menu
+- [x] Commitando seu projeto e editando ele online
+- [x]  Agregando múltiplos CSS para um componente
+- [x]  Desacoplando os componentes da parte visual
+- [x]  Criando outras páginas
+- [x]  Pegando os dados dinamicamente
+- [x]  Deixando o content Page Dinâmica
+- [x]  Lembre de salvar no Git
+- [x]  Entendendo o Desafio de Projeto
 <br><br>
 <hr>
 
 ## Explorando JSON na Prática com Desafios de Código (5 atividades)
-- [ ] Desafio com JSON: DIO Delivery - 1 hora
-- [ ] Desafios com JSON: Acompanhando os Pedidos - 1 hora
-- [ ] Desafios com JSON: Comparando os Pedidos - 1 hora
-- [ ] Desafios com JSON: Avaliando Restaurantes - 1 hora
-- [ ] Desafios com JSON: Encontrando o Pedido Mais Próximo - 1 hora
+- [x] Desafio com JSON: DIO Delivery - 1 hora
+- [x] Desafios com JSON: Acompanhando os Pedidos - 1 hora
+- [x] Desafios com JSON: Comparando os Pedidos - 1 hora
+- [x] Desafios com JSON: Avaliando Restaurantes - 1 hora
+- [x] Desafios com JSON: Encontrando o Pedido Mais Próximo - 1 hora
 <br><br>
 <hr>
   
@@ -505,18 +502,18 @@
 <hr>
 
 ### 3. Criando um Clone do BuzzFeed com Angular - 1 hora
-- [ ] O que vamos construir
-- [ ] Criando a estrutura base
-- [ ] Criando a estilização do projeto
-- [ ] Criando as propriedades lógicas
-- [ ] Criando as regras do jogo
-- [ ] Calculando o Resultado
-- [ ] Dicas para tornar um projeto clickbait no seu portifólio
-- [ ] Entendendo o desafio
+- [x] O que vamos construir
+- [x] Criando a estrutura base
+- [x] Criando a estilização do projeto
+- [x] Criando as propriedades lógicas
+- [x] Criando as regras do jogo
+- [x] Calculando o Resultado
+- [x] Dicas para tornar um projeto clickbait no seu portifólio
+- [x] Entendendo o desafio
 <br><br>
 <hr>
 
 ### 4. Avalie este Bootcamp - 1 hora
 #### 4.1 Como foi sua Experiência no Bootcamp
-- [ ] Queremos a sua opinião!
-- [ ] Formulário de Avaliação
+- [x] Queremos a sua opinião!
+- [x] Formulário de Avaliação
