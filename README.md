@@ -20,8 +20,6 @@
 </div>
 <br>
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 <div align="center">
     <img src="https://img.shields.io/badge/IN%C3%8DCIO-14%2F03%2F2023-green" hspace="5"/>
